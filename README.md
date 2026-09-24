@@ -1,4 +1,3 @@
-````markdown
 # 🏏 IPL Match Intelligence & Prediction Engine
 
 <p align="center">
