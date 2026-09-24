@@ -190,7 +190,11 @@ pipe.pkl
 
 # 📊 Dataset
 
-The model was trained using historical **IPL ball-by-ball and match data**.
+The model was trained using the **IPL Complete Dataset**, containing historical IPL match and ball-by-ball data.
+
+🔗 **Dataset:** [IPL Complete Dataset (2008–2024)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+
+The dataset was used for data preprocessing, feature engineering, and training the Machine Learning model.
 
 Feature engineering was performed to generate important match-state indicators such as:
 
